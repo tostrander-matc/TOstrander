@@ -1,0 +1,3 @@
+githubexercise.txt
+gitlogafter.txt
+ls.txt

@@ -1,0 +1,5 @@
+commit 251a3f2a5e91fb847b0ca17dfbc01712872a1ac8
+Author: Tim <tostrander@madisoncollege.edu>
+Date:   Mon Feb 1 20:59:33 2021 -0600
+
+    Initial commit of GitHub exercise
