@@ -12,6 +12,7 @@ while(1):
 	print('Connected by', addr)
 	while 1:
 		data = conn.recv(1024)
-		with open('funnyfile.txt', 'w') as output:
-			print(f"{data}", file=output)
+		file = open("funniestfile.txt", "wb")
+		file.write(data)
+		if not data: break
 	conn.close()
